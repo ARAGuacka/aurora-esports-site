@@ -29,15 +29,15 @@
     },
     "badge": "Association Esports belge",
     "title": "Inclinez-vous devant l’Aurore",
-    "desc": "Nous formons les talents, racontons des histoires et concourons avec sens. Champions d’ESLOL Division 2 — Spring 2024 et des Playoffs de printemps. En route vers la Division 1 de la TransIP Road of Legends League.",
+    "desc": "Nous développons les talents, créons des récits et rivalisons avec ambition. Champions de la Division 2 ESLOL au Spring 2024 et des playoffs du Spring split. Nous sommes désormais en Division 1 de la ligue TransIP Road of Legends.",
     "ctas": {
       "join": "Rejoindre l’équipe",
       "mission": "Découvrir notre mission",
       "contact": "Nous contacter"
     },
     "cards": {
-      "competitive": {"title": "Faits marquants compétitifs", "desc": "Champions ESLOL D2 Spring 2024 • Champions des Playoffs de printemps. Désormais en D1 de la TransIP Road of Legends League.", "to": "/teams"},
-      "partnership": {"title": "Partenariats", "desc": "Intégrations de marque, placements de logos, co‑contenus et giveaways qui comptent.", "to": "/partnership"},
+      "competitive": {"title": "Faits marquants compétitifs", "desc": "Champions ESLOL D2 Spring 2024 • Champions des Playoffs du spring. Désormais en D1 de la ligue TransIP Road of Legends.", "to": "/teams"},
+      "partnership": {"title": "Partenariats", "desc": "Intégrations de marque, placements de logos, co‑contenus et giveaways impactant.", "to": "/partnership"},
       "media": {"title": "Contenu & Médias", "desc": "Coulisses, lives et événements avec nos créateurs et designers.", "to": "/media"}
     },
     "built": {
@@ -56,7 +56,7 @@
   "about": {
     "seo": {"title": "À propos — Aurora Esports ASBL", "description": "Qui nous sommes, notre mission et notre parcours de 2023 à la Division 1 en 2025."},
     "headerTitle": "À propos d’Aurora Esports",
-    "headerDesc": "Aurora Esports naît en 2023 comme équipe d’esport compétitif et devient une ASBL en 2025 en rejoignant la Division 1 de la TransIP Road of Legends League. Nous développons les talents, structurons joueurs et staff, et donnons de la visibilité à l’esport en Belgique.",
+    "headerDesc": "Aurora Esports naît en 2023 comme équipe d’esport compétitif et devient une ASBL en 2025 en rejoignant la Division 1 de la ligue TransIP Road of Legends. Nous développons les talents, structurons joueurs et staff, et donnons de la visibilité à l’esport en Belgique.",
     "values": {
       "development": {"title": "Développement", "desc": "Des parcours durables pour joueurs, créateurs et staff."},
       "professionalism": {"title": "Professionnalisme", "desc": "Structure, coaching, analyse et objectifs de performance clairs."},
@@ -84,7 +84,7 @@
   "partnership": {
     "seo": {"title": "Partenariats — Aurora Esports", "description": "Sponsorisez Aurora Esports : placements de logos, intégrations de marque, co‑contenus et giveaways."},
     "title": "Partenariat & Sponsoring",
-    "headerDesc": "Nous créons des moments de marque pertinents en compétition, en contenu et dans la communauté. Des histoires suivies par les fans — pas seulement des logos sur un maillot.",
+    "headerDesc": "Nous créons des moments de marque authentiques à travers la compétition, le contenu et la communauté. Nos partenaires s’inscrivent dans des histoires que les fans suivent, bien au-delà d’un simple logo sur un maillot.",
     "metrics": {"engagement": "Taux d’engagement moyen", "impressions": "Impressions annuelles", "growth": "Croissance communauté YoY"},
     "offer": {
       "title": "Ce que nous offrons",
@@ -112,7 +112,7 @@
     "seo": {"title": "Médias & Contenu — Aurora Esports", "description": "Galerie d’images et de vidéos : coulisses, événements et lives."},
     "title": "Médias & Contenu",
     "twitchNote": "En direct sur Twitch lorsque nous streamons.",
-    "youtubeNote": "Contenu à la une — dernier match ou documentaire.",
+    "youtubeNote": "Production vidéo cinématique.",
     "twitter": {"title": "À la une sur X (Twitter)", "l1": "Moment 1", "l2": "Moment 2", "l3": "Moment 3"}
   },
   "join": {
