@@ -1,0 +1,149 @@
+{
+  "common": {
+    "language": "Language",
+    "explore": "Explore",
+    "nav": {
+      "about": "About",
+      "teams": "Teams",
+      "partnership": "Partnership",
+      "media": "Media",
+      "join": "Join Us",
+      "contact": "Contact"
+    },
+    "cta": {
+      "becomePartner": "Become a Partner"
+    },
+    "footer": {
+      "navigation": "Navigation",
+      "connect": "Connect",
+      "requestPdf": "Request Sponsorship PDF",
+      "orgBlurb": "Aurora Esports ASBL — Belgian non-profit for competitive esports, content and digital design.",
+      "location": "Brussels, Belgium",
+      "rights": "All rights reserved. | Non-profit association (ASBL)"
+    }
+  },
+  "home": {
+    "seo": {
+      "title": "Aurora Esports — Lie down to the Aurora",
+      "description": "Belgian esports ASBL competing at the highest level. Discover our mission, teams and partnership opportunities."
+    },
+    "badge": "Belgian Esports Association",
+    "title": "Lie down to the Aurora",
+    "desc": "We build talent, craft stories and compete with purpose. Champions of ESLOL Division 2 — Spring 2024 and Spring Playoffs. Moving to Division 1 in the TransIP Road of Legends League.",
+    "ctas": {
+      "join": "Join the Team",
+      "mission": "Discover our Mission",
+      "contact": "Contact Us"
+    },
+    "cards": {
+      "competitive": {"title": "Competitive Highlights", "desc": "ESLOL D2 Spring 2024 Champions • Spring Playoffs Champions. Now competing in D1 of the TransIP Road of Legends League.", "to": "/teams"},
+      "partnership": {"title": "Partnerships", "desc": "Brand integrations, logo placements, co-created content and giveaways that resonate.", "to": "/partnership"},
+      "media": {"title": "Content & Media", "desc": "Behind the scenes, live streams and event coverage from our creators and designers.", "to": "/media"}
+    },
+    "built": {
+      "title": "Built by competitors. Powered by community.",
+      "desc": "Our ASBL structure empowers players and staff to grow sustainably. We invest in coaching, analytics and production to spotlight talent and inspire the next generation.",
+      "stats": {
+        "year": "2024",
+        "yearLabel": "Spring Split & Playoffs Champions",
+        "league": "D1",
+        "leagueLabel": "Road of Legends League",
+        "growth": "+Growth",
+        "growthLabel": "Social & Viewership"
+      }
+    }
+  },
+  "about": {
+    "seo": {
+      "title": "About — Aurora Esports ASBL",
+      "description": "Who we are, our mission and our journey from 2023 to Division 1 in 2025."
+    },
+    "headerTitle": "About Aurora Esports",
+    "headerDesc": "Aurora Esports was born in 2023 as a competitive esports team and became an official ASBL in 2025 when joining Division 1 of the TransIP Road of Legends League. We exist to develop talent, structure players and staff, and give visibility to esports as a legitimate discipline in Belgium.",
+    "values": {
+      "development": {"title": "Development", "desc": "We create pathways for players, creators and staff to grow sustainably."},
+      "professionalism": {"title": "Professionalism", "desc": "We operate with structure, coaching, analytics and clear performance goals."},
+      "community": {"title": "Community", "desc": "We represent Belgian esports with pride and collaborate with the wider scene."}
+    },
+    "timeline": {
+      "title": "Timeline",
+      "y2023": "Founded as a competitive esports team.",
+      "y2024": "Won ESLOL Division 2 Spring Split and Spring Playoffs.",
+      "y2025": "Became Aurora Esports ASBL and joined Division 1 of the TransIP Road of Legends League."
+    }
+  },
+  "teams": {
+    "seo": {"title": "Teams — Aurora Esports", "description": "Meet our players and staff. Competitive highlights and major results."},
+    "title": "Teams",
+    "lol": {"divisionTitle": "League of Legends — Division 1"},
+    "staff": {"title": "Staff"},
+    "highlights": {
+      "h1": {"title": "ESLOL D2 — Spring 2024", "desc": "Split Champions"},
+      "h2": {"title": "ESLOL D2 Spring Playoffs — 2024", "desc": "Champions"},
+      "h3": {"title": "Road of Legends — 2025", "desc": "Division 1"},
+      "h4": {"title": "Community Events", "desc": "+ Content activations"}
+    }
+  },
+  "partnership": {
+    "seo": {"title": "Partnerships — Aurora Esports", "description": "Sponsor Aurora Esports: logo placements, brand integrations, co-content and giveaways."},
+    "title": "Partnership & Sponsorship",
+    "headerDesc": "We deliver meaningful brand moments across competition, content and community. Our partners join stories that fans follow — not just logos on a jersey.",
+    "metrics": {"engagement": "Avg. Engagement Rate", "impressions": "Yearly Impressions", "growth": "YoY Community Growth"},
+    "offer": {
+      "title": "What we offer",
+      "list": {
+        "logo": "Premium logo placements (jersey, stream overlays, website)",
+        "integrations": "Brand integrations within content and live broadcasts",
+        "campaigns": "Co-produced campaigns and storytelling",
+        "roster": "Co-produced team roster cinematic announcement",
+        "giveaways": "Giveaways and community activations",
+        "events": "Event presence and product seeding"
+      }
+    },
+    "why": {
+      "title": "Why Aurora",
+      "list": {
+        "structure": "Professional ASBL structure and governance",
+        "pedigree": "Champion pedigree with a player-first approach",
+        "production": "High-quality production and design capabilities",
+        "authentic": "Authentic connection to Belgian esports"
+      }
+    },
+    "ctas": {"become": "Become an Official Partner", "media": "See our Media"}
+  },
+  "media": {
+    "seo": {"title": "Media & Content — Aurora Esports", "description": "Image and video gallery with behind-the-scenes, events and live streams."},
+    "title": "Media & Content",
+    "twitchNote": "Live on Twitch when streaming.",
+    "youtubeNote": "Featured content — latest match or documentary.",
+    "twitter": {"title": "Featured on X (Twitter)", "l1": "Highlight 1", "l2": "Highlight 2", "l3": "Highlight 3"}
+  },
+  "join": {
+    "seo": {"title": "Join Us — Aurora Esports", "description": "Apply as player, staff or creator. Share your Discord and motivation in a short form."},
+    "title": "Join Aurora",
+    "headerDesc": "We’re always looking for motivated players, staff and creators. Tell us how you want to contribute and we’ll get back to you.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "discord": "Discord",
+      "role": "Role",
+      "rolePlaceholder": "Select a role",
+      "roles": {"player": "Player", "staff": "Staff", "creator": "Creator", "designer": "Designer"},
+      "motivation": "Motivation",
+      "motivationPh": "Tell us about you and why you want to join.",
+      "submit": "Send Application",
+      "discordCta": "Join our Discord"
+    }
+  },
+  "contact": {
+    "seo": {"title": "Contact — Aurora Esports", "description": "Contact Aurora Esports ASBL. Media, partnership and general enquiries."},
+    "title": "Contact",
+    "headerDesc": "Media, partnership and general enquiries. We aim to respond within 48 hours.",
+    "form": {"name": "Name", "email": "Email", "message": "Message", "messagePh": "How can we help?", "submit": "Send Message"},
+    "aside": {"title": "Aurora Esports ASBL", "city": "Brussels, Belgium"}
+  },
+  "legal": {
+    "seo": {"title": "Legal Notice & GDPR — Aurora Esports ASBL", "description": "RGPD and legal information for Aurora Esports ASBL: publisher, hosting, IP and personal data."},
+    "title": "RGPD / Legal Information"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "common": {
+    "language": "Taal",
+    "explore": "Ontdek",
+    "nav": {
+      "about": "Over",
+      "teams": "Teams",
+      "partnership": "Partnerschap",
+      "media": "Media",
+      "join": "Word lid",
+      "contact": "Contact"
+    },
+    "cta": {
+      "becomePartner": "Word partner"
+    },
+    "footer": {
+      "navigation": "Navigatie",
+      "connect": "Volg ons",
+      "requestPdf": "Sponsorbrochure aanvragen",
+      "orgBlurb": "Aurora Esports ASBL — Belgische vzw voor competitieve esports, content en digital design.",
+      "location": "Brussel, België",
+      "rights": "Alle rechten voorbehouden. | Vereniging zonder winstoogmerk (VZW)"
+    }
+  },
+  "home": {
+    "seo": {
+      "title": "Aurora Esports — Buig voor de Aurora",
+      "description": "Belgische esports‑vzw op het hoogste niveau. Ontdek onze missie, teams en partnerschappen."
+    },
+    "badge": "Belgische esportsvereniging",
+    "title": "Buig voor de Aurora",
+    "desc": "We ontwikkelen talent, vertellen verhalen en strijden met een doel. Kampioenen van ESLOL Divisie 2 — Lente 2024 en Spring Playoffs. Naar Divisie 1 in de TransIP Road of Legends League.",
+    "ctas": {
+      "join": "Word lid van het team",
+      "mission": "Ontdek onze missie",
+      "contact": "Neem contact op"
+    },
+    "cards": {
+      "competitive": {"title": "Competitieve hoogtepunten", "desc": "ESLOL D2 Lente 2024 Kampioenen • Spring Playoffs Kampioenen. Nu uitkomend in D1 van de TransIP Road of Legends League.", "to": "/teams"},
+      "partnership": {"title": "Partnerschappen", "desc": "Merkintegraties, logoplaatsingen, co‑content en giveaways die raken.", "to": "/partnership"},
+      "media": {"title": "Content & Media", "desc": "Behind‑the‑scenes, livestreams en eventverslagen van onze creators en designers.", "to": "/media"}
+    },
+    "built": {
+      "title": "Gebouwd door concurrenten. Aangedreven door de community.",
+      "desc": "Onze vzw‑structuur laat spelers en staff duurzaam groeien. Coaching, analyse en productie om talent in de kijker te zetten.",
+      "stats": {
+        "year": "2024",
+        "yearLabel": "Lente‑split & Playoffs Kampioenen",
+        "league": "D1",
+        "leagueLabel": "Road of Legends League",
+        "growth": "+Groei",
+        "growthLabel": "Socials & kijkcijfers"
+      }
+    }
+  },
+  "about": {
+    "seo": {"title": "Over — Aurora Esports ASBL", "description": "Wie we zijn, onze missie en onze weg van 2023 naar Divisie 1 in 2025."},
+    "headerTitle": "Over Aurora Esports",
+    "headerDesc": "Aurora Esports ontstond in 2023 als competitief esportsteam en werd in 2025 een VZW bij de overstap naar Divisie 1 van de TransIP Road of Legends League. We ontwikkelen talent, structureren spelers en staff en geven esports zichtbaarheid in België.",
+    "values": {
+      "development": {"title": "Ontwikkeling", "desc": "Duurzame trajecten voor spelers, creators en staff."},
+      "professionalism": {"title": "Professionaliteit", "desc": "Structuur, coaching, analyse en duidelijke prestatiedoelen."},
+      "community": {"title": "Community", "desc": "Met trots vertegenwoordigen we de Belgische scene en werken we samen met het ecosysteem."}
+    },
+    "timeline": {
+      "title": "Tijdlijn",
+      "y2023": "Opgericht als competitief team.",
+      "y2024": "Winnaar ESLOL Divisie 2 Spring Split en Spring Playoffs.",
+      "y2025": "Aurora Esports wordt VZW en start in Divisie 1 van de TransIP Road of Legends League."
+    }
+  },
+  "teams": {
+    "seo": {"title": "Teams — Aurora Esports", "description": "Maak kennis met onze spelers en staff. Hoogtepunten en resultaten."},
+    "title": "Teams",
+    "lol": {"divisionTitle": "League of Legends — Divisie 1"},
+    "staff": {"title": "Staff"},
+    "highlights": {
+      "h1": {"title": "ESLOL D2 — Lente 2024", "desc": "Splitkampioen"},
+      "h2": {"title": "ESLOL D2 Spring Playoffs — 2024", "desc": "Kampioenen"},
+      "h3": {"title": "Road of Legends — 2025", "desc": "Divisie 1"},
+      "h4": {"title": "Community‑events", "desc": "+ Content‑activaties"}
+    }
+  },
+  "partnership": {
+    "seo": {"title": "Partnerschappen — Aurora Esports", "description": "Sponsor Aurora Esports: logoplaatsing, merkintegraties, co‑content en giveaways."},
+    "title": "Partnerschap & Sponsoring",
+    "headerDesc": "We brengen betekenisvolle merkverhalen in competitie, content en community. Partners stappen in verhalen die fans volgen — meer dan een logo op een shirt.",
+    "metrics": {"engagement": "Gem. engagement rate", "impressions": "Jaarlijkse impressies", "growth": "YoY communitygroei"},
+    "offer": {
+      "title": "Wat we bieden",
+      "list": {
+        "logo": "Premium logoplaatsingen (shirt, stream‑overlays, website)",
+        "integrations": "Merkintegraties in content en live‑uitzendingen",
+        "campaigns": "Geco‑produceerde campagnes en storytelling",
+        "roster": "Geco‑produceerde roster‑cinematic aankondiging",
+        "giveaways": "Giveaways en community‑activaties",
+        "events": "Event‑aanwezigheid en product‑seeding"
+      }
+    },
+    "why": {
+      "title": "Waarom Aurora",
+      "list": {
+        "structure": "Professionele vzw‑structuur en governance",
+        "pedigree": "Kampioens‑DNA met spelers‑eerst aanpak",
+        "production": "Hoogwaardige productie en design",
+        "authentic": "Authentieke band met Belgische esports"
+      }
+    },
+    "ctas": {"become": "Word officieel partner", "media": "Bekijk onze media"}
+  },
+  "media": {
+    "seo": {"title": "Media & Content — Aurora Esports", "description": "Galerij met beelden en video’s: backstage, events en livestreams."},
+    "title": "Media & Content",
+    "twitchNote": "Live op Twitch wanneer we streamen.",
+    "youtubeNote": "Uitgelicht — laatste match of documentaire.",
+    "twitter": {"title": "Uitgelicht op X (Twitter)", "l1": "Highlight 1", "l2": "Highlight 2", "l3": "Highlight 3"}
+  },
+  "join": {
+    "seo": {"title": "Word lid — Aurora Esports", "description": "Solliciteer als speler, staff of creator. Deel je Discord en motivatie."},
+    "title": "Word lid van Aurora",
+    "headerDesc": "We zoeken altijd gemotiveerde spelers, staff en creators. Vertel hoe jij wil bijdragen en we reageren snel.",
+    "form": {
+      "name": "Naam",
+      "email": "E‑mail",
+      "discord": "Discord",
+      "role": "Rol",
+      "rolePlaceholder": "Kies een rol",
+      "roles": {"player": "Speler", "staff": "Staff", "creator": "Creator", "designer": "Designer"},
+      "motivation": "Motivatie",
+      "motivationPh": "Vertel iets over jezelf en waarom je wil meedoen.",
+      "submit": "Sollicitatie verzenden",
+      "discordCta": "Join onze Discord"
+    }
+  },
+  "contact": {
+    "seo": {"title": "Contact — Aurora Esports", "description": "Contacteer Aurora Esports VZW. Pers, partnerschappen en algemene vragen."},
+    "title": "Contact",
+    "headerDesc": "Pers, partners en algemene vragen. We antwoorden binnen 48 uur.",
+    "form": {"name": "Naam", "email": "E‑mail", "message": "Bericht", "messagePh": "Waarmee kunnen we helpen?", "submit": "Verzenden"},
+    "aside": {"title": "Aurora Esports VZW", "city": "Brussel, België"}
+  },
+  "legal": {
+    "seo": {"title": "Juridische info & GDPR — Aurora Esports VZW", "description": "GDPR en juridische info: uitgever, hosting, intellectuele eigendom en persoonsgegevens."},
+    "title": "GDPR / Juridische informatie"
+  }
+}
