@@ -132,12 +132,11 @@ All colors MUST be HSL.
   }
   .hover-scale { transition: transform var(--transition-smooth, 200ms ease); }
   .hover-scale:hover { transform: translateY(-1px) scale(1.02); }
-}
-.bg-aurora-fabric {
-  background-image: linear-gradient(180deg, hsl(var(--background) / 0.6), hsl(var(--background) / 0.8)), url('/ara_bg_neutre.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
 
-
+  .bg-aurora-fabric {
+    background-image: linear-gradient(180deg, hsl(var(--background) / 0.6), hsl(var(--background) / 0.8)), url('/ara_bg_neutre.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
