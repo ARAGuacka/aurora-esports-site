@@ -16,6 +16,7 @@ import Legal from "./pages/Legal";
 import { SiteHeader } from "./components/layout/SiteHeader";
 import { SiteFooter } from "./components/layout/SiteFooter";
 import { LanguageSync } from "./components/common/LanguageSync";
+import { CookieConsentProvider } from "./components/common/CookieConsent";
 
 const queryClient = new QueryClient();
 
@@ -25,7 +26,8 @@ const App = () => (
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter>	
+         <CookieConsentProvider>
           <LanguageSync />
           <div className="min-h-screen flex flex-col">
             <SiteHeader />
@@ -45,6 +47,7 @@ const App = () => (
             </main>
             <SiteFooter />
           </div>
+         <CookieConsentProvider>
         </BrowserRouter>
       </TooltipProvider>
     </HelmetProvider>
