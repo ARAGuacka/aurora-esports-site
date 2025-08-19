@@ -47,7 +47,7 @@ const App = () => (
             </main>
             <SiteFooter />
           </div>
-         <CookieConsentProvider>
+         </CookieConsentProvider>
         </BrowserRouter>
       </TooltipProvider>
     </HelmetProvider>
